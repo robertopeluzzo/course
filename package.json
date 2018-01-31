@@ -1,0 +1,22 @@
+{
+  "name": "course",
+  "version": "1.0.0",
+  "description": "curso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertopeluzzo/course.git"
+  },
+  "keywords": [
+    "curso"
+  ],
+  "author": "Roberto <robertopeluzzo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robertopeluzzo/course/issues"
+  },
+  "homepage": "https://github.com/robertopeluzzo/course#readme"
+}
